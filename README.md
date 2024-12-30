@@ -8,7 +8,7 @@ Welcome to the **Coffee Store Website**! This project is crafted with **React** 
 - **Fully Responsive**: Optimized for mobile, tablet, and desktop, ensuring a flawless user experience on all devices.
 - **Product Showcase**: A beautifully designed display of coffee products, complete with descriptions, images, and price
 - **Cart System**: Easy-to-use cart functionality, allowing customers to add items and complete their orders with eas
-- **Modern & Clean UI**: A user-friendly interface that reflects the warmth and inviting atmosphere of a cozy coffee sho
+- **Modern & Clean UI**: A user-friendly interface that reflects the warmth and inviting atmosphere of a cozy coffee sh
 
 ## 🛠️ Technologies Used
 
