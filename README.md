@@ -1,6 +1,5 @@
 # ☕ Coffee Store Website
-Welcome to the **Coffee Store Website**! This project is crafted with **React** and **Vite** to offe a seamless and responsive platform for browsing and ordering your favoritoffee. Whether you're cravng a quick espresso or a creamy cappuccino, our website makes it easy to explore a wide range of coffeeproducts and place orders effortlssly
-
+Welcome to the **Coffee Store Website**! This project is crafted with **React** and **Vite** to offe a seamless and responsive platform for browsing and ordering your favoritoffee. Whether you're cravng a quick espresso or a creamy cappuccino, our website makes it easy to explore a wide range of coffeeproducts and place orders effortlss
 ## 🚀 Key Features
 
 - **Fast Refresh**: Built with **Vite** an **React**, providing a smooth development eperince with fast updates
