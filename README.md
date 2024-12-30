@@ -15,7 +15,7 @@ Welcome to the **Coffee Store Website**! This project is crafted with **React** 
 - **React**: Powers the interactive, dynamic user interface.
 - **Vite**: A fast, efficient build tool that ensures quick development and build times.
 - **ESLint**: Enforces code quality by maintaining consistent coding standards and reducing errors.
-- **CSS/SCSS**: For custom styling and a responsive layout that adapts beautifully across devices.
+- **CSS/SCSS**: For custom styling and a responsive layout that adapts beautifully across device
 
 ## 🚀 Getting Started
 
