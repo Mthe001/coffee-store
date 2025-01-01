@@ -19,7 +19,7 @@ Welcome to the **Coffee Store Website**! This project is crafted with **React** 
 
 ## 🚀 Getting Started
 
-To get the Coffee Store Website running locally on your machine, simply follow these steps:
+To get the Coffee Store Website running locally on your machine, simply follow these steps-->
 
 ### 1. Clone the repository-->
 
